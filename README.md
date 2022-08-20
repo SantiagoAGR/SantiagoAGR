@@ -8,7 +8,7 @@ I'm Santiago, project manager (PMP&reg;), business analyst and consultant that l
 #### :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-SantiagoAGR-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagoagr/) 
-[![Mail Badge](https://img.shields.io/badge/-grsantiagoa-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:grsantiago@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-Santiago.AGR-0078D4?style=flat&labelColor=0078D4&logo=microsoftoutlook&logoColor=white)](mailto:santiago.agr@outlook.com)
 
 
 
