@@ -20,7 +20,7 @@ I'm Santiago, project manager (PMP&reg;), business analyst and consultant that l
 
 
 #### **BI Solutions**
-[![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&labelColor=black&logo=Tableau&logoColor=E97627)](#)[![Power BI Badge](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&labelColor=black&logo=PowerBI&logoColor=F2C811)](#)[![IBM Watson Badge](https://img.shields.io/badge/-IBM_Watson-BE95FF?style=for-the-badge&labelColor=black&logo=IBMWATSON&logoColor=BE95FF)](#)
+[![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&labelColor=black&logo=Tableau&logoColor=E97627)](#)[![Power BI Badge](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&labelColor=black&logo=PowerBI&logoColor=F2C811)](#)[![IBM Cognos Badge](https://img.shields.io/badge/-IBM_CLOUD-BE95FF?style=for-the-badge&labelColor=black&logo=IBMCLOUD&logoColor=BE95FF)](#)
 
 
 #### **Project Management & Operations**
